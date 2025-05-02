@@ -1,5 +1,5 @@
 <?php
-$servername = "sqlXXX.infinityfree.com"; // ← You'll get this from the "MySQL Databases" section
+$servername = "sql200.infinityfree.com"; // ← You'll get this from the "MySQL Databases" section
 $username = "if0_38877045";
 $password = "0172266787aA";
 $database = "if0_38877045_canteen_db"; // ← Use your actual DB name here
