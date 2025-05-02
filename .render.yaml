@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: canteen-api
+    env: docker
+    plan: free
+    dockerfilePath: Dockerfile
